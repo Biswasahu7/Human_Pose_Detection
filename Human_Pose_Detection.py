@@ -108,6 +108,7 @@ cap = cv.VideoCapture("/home/vert/iCamPlus/iCamPlus_2021-07-08_171828_1_19_.mp4"
 # cap.set(4,1200)
 
 # cap.("")
+# un comment below line for live camera from laptop(comment above cap= cv.VideoCapture("Path")
 # cap = cv.VideoCapture(args.input if args.input else 0)
 # cap = cv.VideoCapture(args.input if args.input else 0)
 
